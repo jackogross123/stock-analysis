@@ -39,3 +39,18 @@ Unfortunately for green investors, 2018 wasn't the best year for green stocks. C
 
 ![VBA_Challenge_Data_2018](https://github.com/jackogross123/stock-analysis/blob/main/Resources/VBA_Challenge_Data_2018.png)
 
+Only 2 of the 12 tickers had posititve returns. ENPH and RUN both had high returns in 2018. ENPH's 2018 performance is notable because in 2017 ENPH was up nearly 130%. For fun, I wanted to take a look at DQ's performance in 2020. I know that in 2020, green stocks performed particularly well. As an investor in green energy myself, many of my clean energy holdings have performed well. DQ's return in 2020 was over 1000%. This is due to the rally behind solar for envionrmental reasons, China's dominance over PV panel production, and the effects of the pandemic.
+
+As seen in the 2017 analysis, the refactored code improved the time it took to run the script.
+
+![Module_2_2018](https://github.com/jackogross123/stock-analysis/blob/main/Resources/Module2_2018.png)
+
+It took over 2 seconds to run the all years analysis from the Module for year 2018. After refactoring the script, the run time was decreased greatly.
+
+![VBA_Challenge_2018](https://github.com/jackogross123/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+The time it took to run the code was cut down to nearly 0.20 seconds.
+
+
+
+Prior to the refactor
