@@ -34,5 +34,8 @@ After I refactored the script the run time decreased a significant amount.
 
 The time to run the script after I refactored it was down to nearly a millisecond.
 
+### 2018 Analysis
+Unfortunately for green investors, 2018 wasn't the best year for green stocks. Companies such as DQ and SEDG, which had incredible runs in 2017, retracted a little from their yearly opens and finished the year in the red.
 
+![VBA_Challenge_Data_2018](https://github.com/jackogross123/stock-analysis/blob/main/Resources/VBA_Challenge_Data_2018.png)
 
