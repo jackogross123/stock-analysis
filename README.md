@@ -174,5 +174,3 @@ It took over 2 seconds to run the all years analysis from the Module for year 20
 The time it took to run the code was cut down to nearly 0.20 seconds.
 
 
-
-Prior to the refactor
