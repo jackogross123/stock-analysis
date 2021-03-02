@@ -30,7 +30,7 @@ The performance of the refactored code is noteworthy. After the initial run, the
 
 After I refactored the script the run time decreased a significant amount.
 
-![VBA_Challenge_2018](https://github.com/jackogross123/stock-analysis/blob/main/Resources/VBA_Challenge_Data_2017.png)
+![VBA_Challenge_2017](https://github.com/jackogross123/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 The time to run the script after I refactored it was down to nearly a millisecond.
 
