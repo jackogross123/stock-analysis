@@ -1,5 +1,5 @@
 # Stock Analysis with VBA
-[VBA_Challenge](https://github.com/jackogross123/stock-analysis/blob/main/VBA_Challenge.xlsm)
+The excel workbook can be found here: [VBA_Challenge](https://github.com/jackogross123/stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 ## Overview of Project
 
@@ -176,3 +176,12 @@ The time it took to run the code was cut down to nearly 0.20 seconds.
 
 ## Summary
 
+### Advantages and Disadvantages of Refactoring Code
+I think that one of the biggest advantages to refactoring code is just making it more readable and efficient. With my little experience so far, I have found that I often get confused with what I'm working on, especially if there are lots of different lines of code. I think that the best strategy moving forward is to create a really good outline before I start to working on the code. I have to ensure that every step is accounted for so I can stay organized through the refactoring process. Additionally, refactoring the code forces you to organize it which makes it much easier to read for an outside audience.
+
+I think that one of the biggest disadvantages of refactoring code is possibly breaking the code. Obviously this can be prevented by saving the file frequently, but for someone who still has weak VBA knowledge, it can be a little intimidating to look at a script and find ways to improve it and organize it without truly understanding the purpose of every line.
+
+### Advantages and Disadvantages of Refactoring the Code from Module 2
+One of the biggest advantages from refactoring this specific code was organizing it which in turn helped me understand many of the parts that I didn't understand before. I am still struggling a little bit with for loops, but the challenge helped a lot with that. Another advantage to refactoring this code was improving the time it took to run the anaylsis. The code from the module was clunky and wasn't very efficient, so by refactoring it we solved both of those problems. 
+
+I think that one of the biggest disadvantages and challenges for me was working with the new loops and the index. I didn't understand a lot about the tickerIndex and I'm still struggling to find out why an index was needed in order to run the script. Additionally, when I first tried to run the script I kept getting an "overflow" error message from Excel. This was because I had too many loops and "next i" lines which prevented the code from being ran. This is something that I'm still working on, but I know that with enough practice I'll soon start to understand all of these things. Overall, it can be tough to try and improve something when you don't necessarily understand the purpose of every part of the mechanism. 
