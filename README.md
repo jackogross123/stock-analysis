@@ -13,9 +13,12 @@ At first glance, the better of the two years for green stock returns was 2017. T
 
 ![DQ_Analysis](https://github.com/jackogross123/stock-analysis/blob/main/Resources/DQ_Analysis.png)
 
-The performance of the refactored code is noteworthy. After the initial run, the code used in the module was taking over 1 second and even 2 seconds to run in some occasions. 
-
-![
+As it can be seen through the image, the 2018 return for DQ was over -62%.
 
 ### 2017 Analysis
 In 2017, all but one stock had positive annual returns. The only stock that didn't have positive returns wsa $TERP. What's even more significant, is that over 25% of the stocks in 2017 had gains that were over 100%. From the data from the 12 tickers, it could be said that 2017 was very good year for green companies. 
+
+The performance of the refactored code is noteworthy. After the initial run, the code used in the module was taking over 1 second and even 2 seconds to run in some occasions. 
+
+![Module_2_2017](https://github.com/jackogross123/stock-analysis/blob/main/Resources/Module2_2017.png)
+
